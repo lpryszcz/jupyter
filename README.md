@@ -10,7 +10,7 @@ In order to start working here, please follow these steps:
 - execute given cell (Shift + Enter)
 - and save (File >> Save... or Ctrl + S)
 
-For more info, have a look:
+For more info, have a look at:
 - [Jupyter main page](http://jupyter.org/)
 - [youtube](https://www.youtube.com/watch?v=qb7FT68tcA8).
 - [keyboard shortcuts](https://sowingseasons.com/blog/reference/2016/01/jupyter-keyboard-shortcuts/23298516)
