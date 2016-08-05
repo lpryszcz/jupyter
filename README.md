@@ -7,7 +7,7 @@ In order to start working here, please follow these steps:
 - create new document (New >> Python 2) ie. for Python notebook
 - rename your notebook (Clik `Untitled` on the page header)
 - add content
-- execute given cell (Shift + Enter) or everything (
+- execute given cell (Shift + Enter)
 - and save (File >> Save... or Ctrl + S)
 
 For more info, have a look:
